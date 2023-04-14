@@ -1,0 +1,5 @@
+bokeh==3.0.0
+pandas==1.4.4
+pandas_bokeh==0.5.5
+pyproj==3.4.0
+xyzservices==2022.9.0
